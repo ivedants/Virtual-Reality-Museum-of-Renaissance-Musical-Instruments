@@ -5,7 +5,7 @@ This award-winning project focuses on making an immersive Virtual Reality (VR) e
 
 - [Getting Started](#getting-started)
 - [VR Application Design](#VR-application-design)
-- [References](#references)
+- [Integration](#integration)
 
 ## Getting Started [FIND PROJECT LINK AND PREVIEW VIDEO LINK HERE]
 
@@ -26,6 +26,13 @@ For a quick insight of this project, here is the link to a short video of the mu
 **Instructional signs/wayfinders:** The app has floating text at various places pointing to different rooms and instruments just like a real world museum.
 Activities involving Six Degrees of Freedom (6DOF): Users would be able to walk around in the museum and look at the objects from all angles. This would make them feel as if they are actually in a real world museum.
 
+## Integration
+
+**Data Collection:** One of the first and biggest challenges in this project was to gather enough data from trustworthy sources. All the information about the instruments featured in this project has been collected from various sources such as websites of various museums around the world, various music schools, sources like wikipedia, and more.
+
+**Processing audio files:** The audio files collected had to be edited and cleaned for better experience in the VR. The editing and cleaning was done using Apple Garageband.
+
+**Making 3D Models of the instruments:** All the 3D Models of all the musical instruments in this project have been custom designed by me using Adobe Photoshop and Rhinoceros 3D. The objects have been used in .OBJ file format while their textures are in JPEG file format.
 
 
 
