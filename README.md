@@ -13,7 +13,7 @@ This project won the Best Project (Public Choice) Award under the Virtual Realit
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Getting Started (Find Project Link and Preview Video Link here)](#getting-started)
 - [VR Application Design](#VR-application-design)
 - [Integration](#integration)
 
