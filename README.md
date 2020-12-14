@@ -11,6 +11,10 @@ This award-winning project focuses on making an immersive Virtual Reality (VR) e
 
 This project won the Best Project (Public Choice) Award under the Virtual Reality Projects category at the Festival of Animation - Fall 2020 at The George Washington University, Washington D.C., USA.
 
+**Sister Project** 
+
+This project has a sister project which is an Interactive Multimedia Interface of the same museum, developed using Adobe XD. Learn more: https://github.com/ivedants/Interactive-Multimedia-Interface-for-a-Museum-Exhibit-of-Renaissance-Musical-Instruments
+
 ## Table of Contents
 
 - [Getting Started (Find Project Link and Preview Video Link here)](#getting-started)
