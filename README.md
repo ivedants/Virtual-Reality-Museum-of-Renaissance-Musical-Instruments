@@ -32,8 +32,8 @@ Activities involving Six Degrees of Freedom (6DOF): Users would be able to walk 
 
 **Processing audio files:** The audio files collected had to be edited and cleaned for better experience in the VR. The editing and cleaning was done using Apple Garageband.
 
-**Making 3D Models of the instruments:** All the 3D Models of all the musical instruments in this project have been custom designed by me using Adobe Photoshop and Rhinoceros 3D. The objects have been used in .OBJ file format while their textures are in JPEG file format.
+**Making 3D Models of the instruments:** All the 3D Models of all the musical instruments in this project have been **custom designed** by me using **Adobe Photoshop and Rhinoceros 3D**. The objects have been used in .OBJ file format while their textures are in JPEG file format.
 
-
+![alt text](https://github.com/ivedants/Virtual-Reality-Museum-of-Renaissance-Musical-Instruments/blob/main/Image%201.png)
 
 
