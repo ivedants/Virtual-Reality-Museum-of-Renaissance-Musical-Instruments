@@ -16,6 +16,12 @@ This project won the Best Project (Public Choice) Award under the Virtual Realit
 - [Getting Started (Find Project Link and Preview Video Link here)](#getting-started)
 - [VR Application Design](#VR-application-design)
 - [Integration](#integration)
+- [User Experience](#user-experience)
+- [User Guidelines](#user-guidelines)
+- [Suggestions for Further Improvements](#suggestions-for-further-improvements)
+- [Efforts taken for Additional Complexity and Creativity](#efforts-taken-for-additional-creativity-and-complexity)
+- [Appendix: Lessons Learned](#appendix-lessons-learned)
+- [References](#references)
 
 ## Getting Started [FIND PROJECT LINK AND PREVIEW VIDEO LINK HERE]
 
@@ -40,6 +46,10 @@ Activities involving Six Degrees of Freedom (6DOF): Users would be able to walk 
 
 **Data Collection:** One of the first and biggest challenges in this project was to gather enough data from trustworthy sources. All the information about the instruments featured in this project has been collected from various sources such as websites of various museums around the world, various music schools, sources like wikipedia, and more.
 
+## User Guidelines
+
+In order to access the application in VR, all that the user needs to do is visit the URL link through their VR HMD Browser and enter VR Mode. In order to access all the interactive videos alongside the instruments, the user has to visit the URL without the HMD through a regular web browser on a computer. This is a limitation of Amazon Sumerian where it renders HTML 3D videos into 2D images when accessed in VR Mode. More information about this limitation can be found on Amazon Sumerian’s official website at https://docs.sumerian.amazonaws.com/articles/html3d/
+
 **Processing audio files:** The audio files collected had to be edited and cleaned for better experience in the VR. The editing and cleaning was done using Apple Garageband.
 
 **Making 3D Models of the instruments:** All the 3D Models of all the musical instruments in this project have been **custom designed** by me using **Adobe Photoshop and Rhinoceros 3D**. The objects have been used in .OBJ file format while their textures are in JPEG file format.
@@ -56,3 +66,37 @@ Activities involving Six Degrees of Freedom (6DOF): Users would be able to walk 
 
 ![alt text](https://github.com/ivedants/Virtual-Reality-Museum-of-Renaissance-Musical-Instruments/blob/main/Image%205.png)
 
+## User Experience
+
+For delivering the best experience, the first and foremost thing has been to design a very user-friendly layout of the museum with appropriate text instructions and way finders at appropriate places so that the users have a real-world like museum experience. The simplicity and elegance of the layout combined with the amazing 3D models of the musical instruments are all significantly conducive in delivering this experience. The users can also interact with various videos throughout the museum in Browser Mode in order to learn more about the music during the Renaissance era.
+
+## Suggestions for Further Improvements
+
+The first and foremost suggestion is out of a current limitation of Amazon Sumerian which is that the HTML 3D videos should be accessible in VR Mode too along with the Browser Mode. This will help every developer on Sumerian get more done in the VR experience and make it even better. The second suggestion would be the addition of a Sumerian Host using Amazon Lex for backing it up with a chatbot. This would make the Sumerian Host pretty much like a museum curator to answer any questions that the visitor may have.
+
+## Efforts taken for Additional Complexity and Creativity
+
+In order to deliver beyond the required project deliverables, I custom designed all the musical instruments from scratch so that they look like they actually did in real life to the visitors and give them a better insight of how it might have been for the musicians of the Renaissance period to experience them and make music. Besides this, I processed and cleaned all the audio files of these instruments so that their individual sounds can be experienced by the user. This required me to download various orchestral pieces and cut out all the other instruments from the files apart from the subject instruments. The layout of the whole museum has been created in such a user-friendly manner that the user can easily remember the way to navigate around in the VR space and have the feel of visiting a museum in real life. Besides this, I added interactive video capability to the project so that users can learn better about how the evolution of music took place over time since Renaissance to centuries later to today. On top of this, I also custom designed the welcome room of the museum which the users visit first upon their entry so that they feel just like at home and learn about the Renaissance first through the interactive video on the TV screen in that room before they visit the exhibit in the gallery and the central room.
+
+## Appendix: Lessons Learned
+
+One of the biggest challenges in this development experience has been to collect data from trustworthy sources to use. This took some time but was achieved successfully. I learned a great deal about how VR content developers render and process all the multimedia content, design 3D Models, and integrate them all into one immersive VR experience. I also learned about the capabilities of Amazon Sumerian and how it can help shape the future of VR in the coming times. I discovered new ways of developing 3D objects using photo-editing tools like Adobe Photoshop. I also learned a great deal about VR headsets of today’s time and finally got to experience my first project in VR on my Oculus Quest 2 HMD.
+
+## References
+
+1. https://www.metmuseum.org/about-the-met/curatorial-departments/musical-instruments
+2. https://mim.org/galleries/special-exhibitions/
+3. http://www.accademia.org/esplora-il-museo/le-sale/museo-degli-strumenti-musicali/
+4. https://www.khm.at/en/visit/collections/collection-of-historic-musical-instruments/selected-masterpieces/
+5. https://artsandculture.google.com/usergallery/pgKiYHawYnw9JA
+6. http://www.vam.ac.uk/content/articles/m/music-for-the-lute/
+7. https://www.recorderhomepage.net/history/the-renaissance-period/
+8. https://www.music.iastate.edu/antiqua/ 
+9. Music 121-Renaissance Instruments: https://www.youtube.com/watch?v=jPJNJr6iBrs&list=PLFZEKHKLkiB1aMGmKlA05Hs2R4Qzj1zD1
+10. https://www.youtube.com/watch?v=I8tW06fv8sg 
+11. Google Images
+12. Wikipedia
+
+# Author
+
+Vedant Shrivastava (GitHub: https://github.com/ivedants ; Email: ivedantshrivastava@gmail.com)
