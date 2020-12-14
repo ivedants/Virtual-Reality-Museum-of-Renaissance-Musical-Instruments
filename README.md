@@ -46,4 +46,6 @@ Activities involving Six Degrees of Freedom (6DOF): Users would be able to walk 
 
 ![alt text](https://github.com/ivedants/Virtual-Reality-Museum-of-Renaissance-Musical-Instruments/blob/main/Image%201.png)
 
+**Designing the Museum Layout:** The museum layout features three different areas - the welcome room which acts as the first room the visitors visit upon their entry, the gallery which features 9 instruments on either of its two sides, and the central room which features 6 instruments each on both its sides. This was made and turned into a VR experience using **Amazon Sumerian**.
 
+![alt text](https://github.com/ivedants/Virtual-Reality-Museum-of-Renaissance-Musical-Instruments/blob/main/Image%202.png)
