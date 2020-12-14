@@ -19,7 +19,7 @@ This project won the Best Project (Public Choice) Award under the Virtual Realit
 - [User Experience](#user-experience)
 - [User Guidelines](#user-guidelines)
 - [Suggestions for Further Improvements](#suggestions-for-further-improvements)
-- [Efforts taken for Additional Complexity and Creativity](#efforts-taken-for-additional-creativity-and-complexity)
+- [Efforts taken for Additional Complexity and Creativity](#efforts-taken-for-additional-complexity-and-creativity)
 - [Appendix: Lessons Learned](#appendix-lessons-learned)
 - [References](#references)
 
