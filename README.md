@@ -1,5 +1,15 @@
 # Virtual-Reality-Museum-of-Renaissance-Musical-Instruments
-This award-winning project focuses on making an immersive Virtual Reality (VR) experience for an exhibit of a Museum of Musical Instruments from the Renaissance era. It includes the capability of being able to interact with 30 various instruments of various ages throughout history, their evolution, and their classification and role in today’s musical world. It also includes small audio clips of the instruments attached to their 3D Models so that the users can tap/click on them and listen to how the instrument sounded like. Alongside this, the project also features some interactive videos which can be accessed in browser mode to understand better about some of the most groundbreaking instruments of the Renaissance period. This project won the Best Project (Public Choice) Award under the Virtual Reality Projects category at the Festival of Animation - Fall 2020 at The George Washington University, Washington D.C., USA.
+This award-winning project focuses on making an immersive Virtual Reality (VR) experience for an exhibit of a Museum of Musical Instruments from the Renaissance era. It includes the capability of being able to interact with 30 various instruments of various ages throughout history, their evolution, and their classification and role in today’s musical world. It also includes small audio clips of the instruments attached to their 3D Models so that the users can tap/click on them and listen to how the instrument sounded like. Alongside this, the project also features some interactive videos which can be accessed in browser mode to understand better about some of the most groundbreaking instruments of the Renaissance period. 
+
+**Tools Used**
+
+1. AWS Sumerian
+2. Adobe Photoshop
+3. Rhinoceros 3D
+
+**Award**
+
+This project won the Best Project (Public Choice) Award under the Virtual Reality Projects category at the Festival of Animation - Fall 2020 at The George Washington University, Washington D.C., USA.
 
 ## Table of Contents
 
