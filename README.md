@@ -1,6 +1,8 @@
 # Virtual Reality Museum of Renaissance Musical Instruments
 This award-winning project focuses on making an immersive Virtual Reality (VR) experience for an exhibit of a Museum of Musical Instruments from the Renaissance era. It includes the capability of being able to interact with 30 various instruments of various ages throughout history, their evolution, and their classification and role in today’s musical world. It also includes small audio clips of the instruments attached to their 3D Models so that the users can tap/click on them and listen to how the instrument sounded like. Alongside this, the project also features some interactive videos which can be accessed in browser mode to understand better about some of the most groundbreaking instruments of the Renaissance period. 
 
+## For a quick insight of this project, here is the link to a short video of the museum: https://youtu.be/RLCYF9-hMKg
+
 **Tools Used**
 
 1. AWS Sumerian
@@ -30,8 +32,6 @@ This project has a sister project which is an Interactive Multimedia Interface o
 ## Getting Started [FIND PROJECT LINK AND PREVIEW VIDEO LINK HERE]
 
 There are two ways to access this project. One is to simply access it through a web browser (Google Chrome, recommended for best performance) or through your VR Headset browser. The project link is:  https://c54237d0af0b40a2ac35b70846537582.us-east-2.sumerian.aws/?
-
-For a quick insight of this project, here is the link to a short video of the museum: https://youtu.be/RLCYF9-hMKg
 
 **NOTE:** Feel free to reach out to ivedantshrivastava@gmail.com for any doubts or suggestions regarding this project.
 
