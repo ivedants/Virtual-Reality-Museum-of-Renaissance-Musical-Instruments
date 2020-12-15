@@ -11,7 +11,7 @@ This award-winning project focuses on making an immersive Virtual Reality (VR) e
 
 **Award**
 
-This project won the Best Project (Public Choice) Award under the Virtual Reality Projects category at the Festival of Animation - Fall 2020 at The George Washington University, Washington D.C., USA.
+This project won the Best Project (Audience Choice) Award under the Virtual Reality Projects category at the Festival of Animation - Fall 2020 at The George Washington University, Washington D.C., USA.
 
 **Sister Project** 
 
