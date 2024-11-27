@@ -103,4 +103,4 @@ One of the biggest challenges in this development experience has been to collect
 
 # Author
 
-Vedant Shrivastava (GitHub: https://github.com/ivedants ; Email: ivedantshrivastava@gmail.com)
+Vedant "Vito" Shrivastava (GitHub: https://github.com/ivedants ; Email: ivedantshrivastava@gmail.com)
